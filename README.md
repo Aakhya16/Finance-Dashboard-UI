@@ -2,8 +2,9 @@
 
 A modern and responsive Finance Dashboard built using React.js with TypeScript. It provides a clean interface to visualize financial data like transactions, balance trends, and spending insights.
 
-## 🚀 Live Demo
+ Live Demo
 https://react-ts-fglqy1kh.stackblitz.io
+
 
  📂 GitHub Repository
 https://github.com/Aakhya16/Finance-Dashboard-UI
